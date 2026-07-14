@@ -1,5 +1,9 @@
 # CookieEdit
 
+<p align="center">
+  <img src="CookieEditor-logo.png" width="800">
+</p>
+
 Extension Chrome/Edge (Manifest V3) để xem, sửa, thêm, xoá cookie của tab đang mở — kiểu tiện
 ích **EditThisCookie**. Không cần app VB.NET/bridge server nữa: mọi thao tác cookie làm trực
 tiếp qua `chrome.cookies` API ngay trong trình duyệt, không gửi dữ liệu đi đâu cả.
